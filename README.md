@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samip Lamichhane</h1>
 <h3 align="center">I'm excited to combine my background in hardware reliability with data-driven insights to solve complex engineering challenges and make AI more sustaniable.</h3>
 
-- 🔭 I have worked on [Smart Fridge Inventory system](https://devpost.com/software/bitesize-y1a79m)
+- 🔭 I have worked on [Smart Fridge Inventory system](https://devpost.com/software/bitesize-y1a79m)(UNT 3rd place Winner)
 
 - 💬 Ask me about **Embedded Systems, Machine Learning and AI**
 
