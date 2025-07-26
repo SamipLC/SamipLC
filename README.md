@@ -1,8 +1,5 @@
 # Hi 👋, I'm Samip Lamichhane
 
-<p align="center">
-  <img src="YOUR_PROFESSIONAL_PICTURE_URL_HERE" alt="Samip Lamichhane" width="200" height="200" style="border-radius:50%;">
-</p>
 
 <h3 align="center">An Electrical Engineering student at UT Dallas passionate about combining hardware reliability with data-driven insights to solve complex engineering challenges.</h3>
 
