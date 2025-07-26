@@ -17,7 +17,7 @@ I'm a senior in Electrical Engineering with a focus on making systems reliable, 
 
 | Project Repo | Description | Key Technologies |
 | :--- | :--- | :--- |
-| 🤖 **[smart-fridge-iot-system]((https://devpost.com/software/bitesize-y1a79m))** | As **Hardware Lead** at a hackathon, I engineered an IoT system using an ESP-32 with a dual-sensor system to track inventory. Our team's prototype won **3rd Place**. | `C++` `ESP-32` `IoT` `Sensors` `REST API` |
+| 🤖 **[smart-fridge-iot-system][https://devpost.com/software/bitesize-y1a79m]** | As **Hardware Lead** at a hackathon, I engineered an IoT system using an ESP-32 with a dual-sensor system to track inventory. Our team's prototype won **3rd Place**. | `C++` `ESP-32` `IoT` `Sensors` `REST API` |
 | 💳 **[Credit-Risk-Classifier](https://github.com/SamipLC/SamipLC/blob/main/Credit_Risk_Classifier.ipynb)** | Built a logistic regression pipeline using Python, Pandas, and scikit-learn with feature engineering and grid search; achieved **87% accuracy** on loan default prediction. | `Python` `pandas` `scikit-learn` `LogisticRegression` |
 
 ---
