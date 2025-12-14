@@ -19,7 +19,7 @@ I'm a senior in Electrical Engineering with a focus on making systems reliable, 
 | :--- | :--- | :--- |
 | 🤖 **[smart-fridge-iot-system](https://devpost.com/software/bitesize-y1a79m)** | As **Hardware Lead** at a hackathon, I engineered an IoT system using an ESP-32 with a dual-sensor system to track inventory. Our team's prototype won **3rd Place**. | `C++` `ESP-32` `IoT` `Sensors` `REST API` |
 | 💳 **[credit-risk-classifier](https://github.com/SamipLC/credit-risk-classifier)** | Built a logistic regression pipeline using Python, Pandas, and scikit-learn with feature engineering and grid search; achieved **87% accuracy** on loan default prediction. | `Python` `pandas` `scikit-learn` `LogisticRegression` |
-| 🏠 **[housing-price-regression](https://github.com/SamipLC/HousingPriceRegression.git)** | Developed a regression model with advanced feature selection and preprocessing techniques; reduced prediction error by **15%** through systematic feature engineering and cross-validation. | `Python` `pandas` `scikit-learn` `Ridge` |
+| 🏢 **[allstate-ai-studio-ml-project](https://github.com/SamipLC/ALL-STATE-AI-STUDIO.git)** | Built an end-to-end machine learning pipeline as part of **Break Through Tech AI Studio (Allstate)**, including data preprocessing, feature engineering, model training, and evaluation using industry-standard metrics (F1, ROC-AUC). | `Python` `pandas` `scikit-learn` `Machine Learning` |
 
 
 ---
