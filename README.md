@@ -6,7 +6,7 @@ Electrical Engineering student at UT Dallas passionate about building reliable s
 
 ---
 
-### 👋 About Me
+## 👋 About Me
 I'm a senior Electrical Engineering student with a strong interest in **hardware reliability, quality engineering, and applied machine learning**. My experience spans embedded systems, IoT prototyping, and data-driven analysis, where I focus on making systems **robust, safe, and measurable**.
 
 Through projects involving **design analysis, root-cause investigation, and ML model development**, I’ve developed a quality-first mindset grounded in engineering fundamentals. I’m currently expanding my machine learning skillset as a **Break Through Tech AI Fellow** and am motivated to apply my background in both hardware and data to roles in **aerospace, manufacturing, and large-scale engineering systems**.
@@ -21,7 +21,7 @@ Through projects involving **design analysis, root-cause investigation, and ML m
 
 | Project | Description | Key Technologies |
 | :--- | :--- | :--- |
-| 🤖 **[smart-fridge-iot-system](https://devpost.com/software/bitesize-y1a79m)** | Hardware Lead for an award-winning hackathon project. Designed an IoT inventory-tracking system using an ESP-32 with dual sensors. Led hardware integration and debugging; prototype won **3rd Place**. | `C++` `ESP-32` `IoT` `Sensors` `REST API` |
+| 🤖 **[smart-fridge-iot-system](https://devpost.com/software/bitesize-y1a79m)** | Hardware Lead for an award-winning hackathon project. Designed an IoT inventory-tracking system using an ESP-32 with dual sensors. Led hardware integration and debugging; prototype won **3rd Place**. | `ESP-32` `IoT` `Sensors` `REST API` |
 | 💳 **[credit-risk-classifier](https://github.com/SamipLC/credit-risk-classifier)** | Built a logistic regression ML pipeline for loan default prediction, including preprocessing, feature engineering, and grid search. Achieved **87% accuracy** with structured model evaluation. | `Python` `pandas` `scikit-learn` `LogisticRegression` |
 | 🏢 **[allstate-ai-studio-ml-project](https://github.com/SamipLC/ALL-STATE-AI-STUDIO.git)** | Developed an end-to-end machine learning workflow as part of **Break Through Tech AI Studio (Allstate)**. Focused on data preprocessing, feature engineering, model comparison, and evaluation using **F1 and ROC-AUC**. | `Python` `pandas` `scikit-learn` `ML Pipelines` |
 
@@ -40,8 +40,6 @@ Through projects involving **design analysis, root-cause investigation, and ML m
 
 <p align="left">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
   <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
@@ -51,7 +49,7 @@ Through projects involving **design analysis, root-cause investigation, and ML m
 
 ---
 
-### 📌 What I’m Looking For
+## 📌 What I’m Looking For
 Internship or full-time opportunities where I can combine **hardware fundamentals, quality engineering, and data-driven analysis** to improve system reliability and performance.
 
 ---
