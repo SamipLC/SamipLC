@@ -23,7 +23,7 @@ Through projects involving **design analysis, root-cause investigation, and ML m
 | :--- | :--- | :--- |
 | 🤖 **[smart-fridge-iot-system](https://devpost.com/software/bitesize-y1a79m)** | Hardware Lead for an award-winning hackathon project. Designed an IoT inventory-tracking system using an ESP-32 with dual sensors. Led hardware integration and debugging; prototype won **3rd Place**. | `ESP-32` `IoT` `Sensors` `REST API` |
 | 💳 **[credit-risk-classifier](https://github.com/SamipLC/credit-risk-classifier)** | Built a logistic regression ML pipeline for loan default prediction, including preprocessing, feature engineering, and grid search. Achieved **87% accuracy** with structured model evaluation. | `Python` `pandas` `scikit-learn` `LogisticRegression` |
-| 🏢 **[allstate-ai-studio-ml-project]([https://github.com/SamipLC/ALL-STATE-AI-STUDIO.git](https://github.com/KanzGiwa/Allstate-1A.git))** | Developed an end-to-end machine learning workflow as part of **Break Through Tech AI Studio (Allstate)**. Focused on data preprocessing, feature engineering, model comparison, and evaluation using **F1 and ROC-AUC**. | `Python` `pandas` `scikit-learn` `ML Pipelines` |
+| 🏢 **[allstate-ai-studio-ml-project]([https://github.com/SamipLC/ALL-STATE-AI-STUDIO.git](https://github.com/SamipLC/Allstate-1A)** | Developed an end-to-end machine learning workflow as part of **Break Through Tech AI Studio (Allstate)**. Focused on data preprocessing, feature engineering, model comparison, and evaluation using **F1 and ROC-AUC**. | `Python` `pandas` `scikit-learn` `ML Pipelines` |
 
 ---
 
