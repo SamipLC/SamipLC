@@ -7,7 +7,7 @@ Electrical Engineering student at UT Dallas passionate about building reliable s
 ---
 
 ## 👋 About Me
-I'm a senior Electrical Engineering student with a strong interest in **hardware reliability, quality engineering, and applied machine learning**. My experience spans embedded systems, IoT prototyping, and data-driven analysis, where I focus on making systems **robust, safe, and measurable**.
+I'm a graduate Electrical Engineering student with a strong interest in **hardware reliability, quality engineering, and applied machine learning**. My experience spans embedded systems, IoT prototyping, and data-driven analysis, where I focus on making systems **robust, safe, and measurable**.
 
 Through projects involving **design analysis, root-cause investigation, and ML model development**, I’ve developed a quality-first mindset grounded in engineering fundamentals. I’m currently expanding my machine learning skillset as a **Break Through Tech AI Fellow** and am motivated to apply my background in both hardware and data to roles in **aerospace, manufacturing, and large-scale engineering systems**.
 
